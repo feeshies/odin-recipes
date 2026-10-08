@@ -1,0 +1,43 @@
+* {
+    color:teal;
+}
+
+p {
+    color:purple;
+}
+
+ul{
+    color: yellow;
+}
+
+ol{
+    color: cyan;
+}
+
+.curry-paste{
+    color:hotpink;
+}
+
+#paste{
+    color: blanchedalmond;
+}
+
+.ingredients,
+.steps{
+    color: papayawhip;
+}
+
+.list.curry-paste{
+    color: coral;
+}
+
+.list{
+    color: khaki;
+}
+
+.list.broth{
+    color: aliceblue;
+}
+.list#soi-broth{
+    color: mediumspringgreen;
+}
