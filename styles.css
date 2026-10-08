@@ -41,3 +41,24 @@ ol{
 .list#soi-broth{
     color: mediumspringgreen;
 }
+
+.glinks{
+    color: bisque;
+}
+
+.desc{
+    color: chartreuse;
+}
+
+.desc.po{
+    color: palevioletred;
+}
+
+footer{
+    color: red;
+}
+
+img{
+    height: 250px;
+    width: 300px;
+}
